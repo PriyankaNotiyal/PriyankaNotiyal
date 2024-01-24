@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)]
+![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 <h1 align="center">Hi 👋, I'm Priyanka Notiyal</h1>
 <h3 align="center">A passionate Web Designer From India</h3>
 <img aling="right" alt="Dev" width="400px" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
